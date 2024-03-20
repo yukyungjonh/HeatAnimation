@@ -1,0 +1,3 @@
+Ji_Test_A_txt file
+
+텍스트 A 파일 하나 더 만듦.
