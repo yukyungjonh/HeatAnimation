@@ -1,3 +1,0 @@
-test_Text_test
-
-Text_test_Text
